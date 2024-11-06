@@ -39,7 +39,7 @@ const HeroSection = () => {
             </div>
           </div>
         </div>
-        <div className="hidden lg:mt-0 lg:col-span-5 lg:flex w-[150%] relative top-1 right-40 ">
+        <div className="hidden lg:mt-0 lg:col-span-5 lg:flex w-[180%] relative top-1 right-80 ">
           <img
             src={shoe}
             alt="mockup"
